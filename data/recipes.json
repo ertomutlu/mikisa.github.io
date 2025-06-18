@@ -1,0 +1,53 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Sebzeli Püre",
+      "age": 6,
+      "image": "img/sebzeli.png",
+      "ingredients": ["1 küçük havuç", "1 küçük patates", "1 dilim kabak"],
+      "instructions": "Malzemeleri hazneye yerleştirin. Buharda pişirme modunu başlatın. Sebzeler yumuşadıktan sonra blenderın 2. kademesini kullanarak püre haline getirin."
+    },
+    {
+      "id": 2,
+      "name": "Tavuklu Sebze Püresi",
+      "age": 9,
+      "image": "img/tavuklu.jpg",
+      "ingredients": ["30g haşlanmış tavuk", "1 küçük havuç", "1 küçük patates"],
+      "instructions": "Sebzeleri cihazın Buharda pişirme modunda pişirin. Sebzeler yumuşadıktan sonra haşlanmış tavuğu ekleyin. Tüm malzemeleri birlikte blenderın 3. kademesinde püre haline getirin."
+    },
+    {
+      "id": 3,
+      "name": "Yoğurtlu Meyve Karışımı",
+      "age": 12,
+      "image": "img/yogurtlu.jpg",
+      "ingredients": ["2 yemek kaşığı yoğurt", "1/2 muz", "1/4 armut"],
+      "instructions": "Meyveleri cihazın blender haznesine alın, düşük kademede püre haline getirin. Karışımı bir kaseye alın, yoğurtla karıştırın. Soğuk servis yapın."
+    },
+    {
+      "id": 4,
+      "name": "Brokolili Havuç Püresi",
+      "age": 6,
+      "image": "img/elmali-brokoli-puresi.jpg",
+      "ingredients": ["1 küçük havuç", "1 küçük brokoli dalı"],
+      "instructions": "Malzemeleri cihaz haznesine koyun. Buharda pişirme modunu çalıştırın. Ardından 2. kademede blenderdan geçirerek püre haline getirin."
+    },
+    {
+      "id": 5,
+      "name": "Kabaklı Patates Püresi",
+      "age": 6,
+      "image": "img/kabak-puresi.jpg",
+      "ingredients": ["1 küçük kabak", "1 küçük patates"],
+      "instructions": "Kabak ve patatesi hazneye yerleştirin. Buharda pişirme fonksiyonunu başlatın. Yumuşadıktan sonra 1. kademede püre haline getirin."
+    },
+    {
+      "id": 6,
+      "name": "Mercimekli Sebze Püresi",
+      "age": 9,
+      "image": "img/mercimek.png",
+      "ingredients": ["2 yemek kaşığı kırmızı mercimek", "1 dilim havuç", "1 dilim kabak"],
+      "instructions": "Tüm malzemeleri hazneye koyun. Cihazın Buharda pişirme fonksiyonu ile pişirin. Ardından 3. kademede blenderdan geçirerek püre haline getirin."
+    }
+  ]
+}
+

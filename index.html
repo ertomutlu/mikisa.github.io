@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MİKİSA</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>ŞEF MİKİSA</h1>
+    <p>Miniklere Sağlık, Ebeveyne Kolaylık</p>
+  </header>
+
+  <main>
+    <section id="age-selector">
+      <label for="age">Bebeğinizin Yaşını Seçin:</label>
+      <select id="age">
+        <option value="6">6 Ay+</option>
+        <option value="9">9 Ay+</option>
+        <option value="12">12 Ay+</option>
+      </select>
+      <button onclick="loadRecipes()">Tarifleri Sırala</button>
+    </section>
+
+    <section id="recipes">
+      <!-- Tarif kartları buraya gelecek -->
+    </section>
+  </main>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
