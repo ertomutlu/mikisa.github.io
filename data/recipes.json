@@ -6,7 +6,7 @@
       "age": 6,
       "image": "img/sebzeli.png",
       "ingredients": ["1 küçük havuç", "1 küçük patates", "1 dilim kabak"],
-      "instructions": "Malzemeleri hazneye yerleştirin. Buharda pişirme modunu başlatın. Sebzeler yumuşadıktan sonra blenderın 2. kademesini kullanarak püre haline getirin."
+      "instructions": "Malzemeleri hazneye yerlestirin. Buharda pisirme modunu baslatın. Sebzeler yumusadıktan sonra blenderın 2. kademesini kullanarak püre haline getirin."
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "age": 9,
       "image": "img/tavuklu.jpg",
       "ingredients": ["30g haşlanmış tavuk", "1 küçük havuç", "1 küçük patates"],
-      "instructions": "Sebzeleri cihazın Buharda pişirme modunda pişirin. Sebzeler yumuşadıktan sonra haşlanmış tavuğu ekleyin. Tüm malzemeleri birlikte blenderın 3. kademesinde püre haline getirin."
+      "instructions": "Sebzeleri cihazın Buharda pisirme modunda pisirin. Sebzeler yumusadıktan sonra haslanmıs tavugu ekleyin. Tüm malzemeleri birlikte blenderın 3. kademesinde püre haline getirin."
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "age": 12,
       "image": "img/yogurtlu.jpg",
       "ingredients": ["2 yemek kaşığı yoğurt", "1/2 muz", "1/4 armut"],
-      "instructions": "Meyveleri cihazın blender haznesine alın, düşük kademede püre haline getirin. Karışımı bir kaseye alın, yoğurtla karıştırın. Soğuk servis yapın."
+      "instructions": "Meyveleri cihazın blender haznesine alın, düsük kademede püre haline getirin. Karısımı bir kaseye alın, yogurtla karıstırın. Soguk servis yapın."
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "age": 6,
       "image": "img/elmali-brokoli-puresi.jpg",
       "ingredients": ["1 küçük havuç", "1 küçük brokoli dalı"],
-      "instructions": "Malzemeleri cihaz haznesine koyun. Buharda pişirme modunu çalıştırın. Ardından 2. kademede blenderdan geçirerek püre haline getirin."
+      "instructions": "Malzemeleri cihaz haznesine koyun. Buharda pisirme modunu çalıstırın. Ardından 2. kademede blenderdan geçirerek püre haline getirin."
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "age": 6,
       "image": "img/kabak-puresi.jpg",
       "ingredients": ["1 küçük kabak", "1 küçük patates"],
-      "instructions": "Kabak ve patatesi hazneye yerleştirin. Buharda pişirme fonksiyonunu başlatın. Yumuşadıktan sonra 1. kademede püre haline getirin."
+      "instructions": "Kabak ve patatesi hazneye yerlestirin. Buharda pisirme fonksiyonunu baslatın. Yumusadıktan sonra 1. kademede püre haline getirin."
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "age": 9,
       "image": "img/mercimek.png",
       "ingredients": ["2 yemek kaşığı kırmızı mercimek", "1 dilim havuç", "1 dilim kabak"],
-      "instructions": "Tüm malzemeleri hazneye koyun. Cihazın Buharda pişirme fonksiyonu ile pişirin. Ardından 3. kademede blenderdan geçirerek püre haline getirin."
+      "instructions": "Tüm malzemeleri hazneye koyun. Cihazın Buharda pisirme fonksiyonu ile pisirin. Ardından 3. kademede blenderdan geçirerek püre haline getirin."
     }
   ]
 }
